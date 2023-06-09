@@ -1,2 +1,2 @@
 # klass-ix.io
-This is the official KlassIX Webpage
+This is the official KlassIX Token Webpage
