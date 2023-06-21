@@ -336,7 +336,7 @@ contract KlassIX is IBEP20, Auth {
     string constant _symbol = "KIX";
     uint8 constant _decimals = 9;
 
-    uint256 _totalSupply = 1000 * 10**6 * 10**_decimals;
+    uint256 _totalSupply = 10000 * 10**6 * 10**_decimals;
 
     uint256 public _maxTxAmount = _totalSupply;
     uint256 public _maxWalletToken = _totalSupply;
